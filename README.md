@@ -9,5 +9,7 @@ Save, delete or star
 <img width="278" alt="Screenshot 2023-05-05 at 00 08 22" src="https://user-images.githubusercontent.com/11790165/236293728-5868614a-76c3-494d-90e4-18dbcffab079.png">
 Add new empty list
 <img width="262" alt="Screenshot 2023-05-05 at 00 20 06" src="https://user-images.githubusercontent.com/11790165/236294173-838fc56c-d3d7-4d10-a51a-968af98408c7.png">
+Live updated list on Firestore
+<img width="954" alt="Screenshot 2023-05-05 at 00 20 48" src="https://user-images.githubusercontent.com/11790165/236294280-2995be40-0a13-466e-bac4-caae6020abae.png">
 
 
