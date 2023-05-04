@@ -6,5 +6,6 @@ Note app with Firestore Database
 Star favourite list
 <img width="267" alt="Screenshot 2023-05-05 at 00 08 13" src="https://user-images.githubusercontent.com/11790165/236293511-7bf719a5-078d-4d82-9571-4d418949355c.png">
 Save, delete or star
+<img width="278" alt="Screenshot 2023-05-05 at 00 08 22" src="https://user-images.githubusercontent.com/11790165/236293728-5868614a-76c3-494d-90e4-18dbcffab079.png">
 
 
